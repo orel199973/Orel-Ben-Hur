@@ -1,5 +1,3 @@
-
-
 <h2>Hello World:earth_africa:, Welcome to my page!:technologist:</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -18,7 +16,8 @@ Team player👤.<br/>
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
 <h2>My Certificates🚀</h2>
-# MCSA - Microsoft Certified Solutions Associate
+- MCSA - Microsoft Certified Solutions Associate
+- LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
 
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
