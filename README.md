@@ -7,7 +7,7 @@
 <p><em>💻My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing.</a> <br/>
 I’m Student at RhinOps DevOps Bootcamp🎓📚. <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations🚀. <br/>
-I like to discover new technologies and work for projects which have scope for self learning and development🧠. <br/>
+I like to discover new technologies and work for projects which have scope for self learning and developmen. <br/>
 Excellent self learning skills .🦁<br/>
 Have excellent technical and communication skills⚡.<br/>
 Great interpersonal skills🧞‍.<br/>
