@@ -36,8 +36,8 @@ Excellent self learning skills 🦁.<br/>
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+<a href="https://github.com/peterthehan"><img alt="GitHub" height="32" width="32" src="assets/github.svg"></a>
+<a href="https://www.npmjs.com/~peterthehan"><img alt="npm" height="32" width="32" src="assets/npm.svg"></a>
 </p>
 
 
