@@ -7,12 +7,12 @@
 <h1 align="left">Hi, I'm Orel ben hur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br/>
 🏠 I’m currently living at Rehovot City, Israel <br/>
 <p><em>My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing</a> 👨‍💻 <br/>
-🎓📚 I’m Student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
+I’m Student at RhinOps DevOps Bootcamp 🎓📚 <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations. 🚀 <br/>
-⚡ Have excellent technical and communication skills.<br/>
- 🦁 Excellent self learning skills .<br/>
- 🧞‍Great interpersonal skills.<br/>
- Team player👤.<br/>
+Have excellent technical and communication skills.⚡<br/>
+Excellent self learning skills .🦁<br/>
+Great interpersonal skills.🧞‍<br/>
+Team player👤.<br/>
  
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-OrelBenHur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
