@@ -16,7 +16,7 @@ Team player👤.<br/>
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
 <h2>My Certificates🚀</h2>
-- MCSA - Microsoft Certified Solutions Associate <br/>
+- MCSA - Microsoft Certified Solutions Associate <br/><td>Windows<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/windows.svg" width="125" title="Microsoft Windows" /><br>252 Bytes</td>
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" /> <br/>
 
 <h2>Skill Set 💪</h2>
