@@ -17,7 +17,7 @@ Team player👤.<br/>
 
 <h2>My Certificates🚀</h2>
 - MCSA - Microsoft Certified Solutions Associate
-- LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
+- LPI Linux Essentials (010-160) <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
 
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
