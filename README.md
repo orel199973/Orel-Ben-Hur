@@ -8,7 +8,8 @@
 🏠 I’m currently living at Rehovot City, Israel <br/>
 <p><em>👨‍💻 My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing</a><br/>
 ⚡Have excellent technical and communication skills⚡.<br/>
-Student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> Student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
