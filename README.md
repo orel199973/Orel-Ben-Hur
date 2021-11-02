@@ -13,8 +13,11 @@ I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Sec
 Excellent self learning skills 🦁.<br/>
  Great interpersonal skills🧞‍♂️.<br/>
  Team player👤.<br/>
+ 
+ [![Linkedin: thaianebraga](https://img.shields.io/badge/-inballevi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/inbalLevi?label=follow&style=social)](https://github.com/inbalLevi)
 
-<h2>Skills 🚀</h2>
+ <h2>Skills 🚀</h2>
 </p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
