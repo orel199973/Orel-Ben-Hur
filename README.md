@@ -15,7 +15,7 @@ Excellent self learning skills 🦁.<br/>
  Team player👤.<br/>
  
  [![Linkedin: thaianebraga](https://img.shields.io/badge/-Orel-ben-hur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](www.linkedin.com/in/orel-ben-hur-86b3201a3)
-[![GitHub Thaiane](https://img.shields.io/github/followers/inbalLevi?label=follow&style=social)](https://github.com/inbalLevi)
+[![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/inbalLevi)
 
  <h2>Skills 🚀</h2>
 </p>
