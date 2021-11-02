@@ -30,8 +30,8 @@ Excellent self learning skills 🦁.<br/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
 <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="28" />
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
-<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a>
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a>
