@@ -22,12 +22,7 @@ Excellent self learning skills 🦁.<br/>
 <img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
 <img alt="win" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb
-</p>                                                                                                                          
-                                                                                                                                                                                                                              
-                                                                                                                                                                               
-
+</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 </p>
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -41,7 +36,8 @@ Excellent self learning skills 🦁.<br/>
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a>
-
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
 </p>
 
 
