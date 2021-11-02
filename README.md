@@ -17,7 +17,7 @@ Team player👤.<br/>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-OrelBenHur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
-<h2My certificates</h2> 🚀
+<h2<My certificates🚀</h2>
  
  
 <h2>Skill Set 💪</h2>
