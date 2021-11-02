@@ -8,7 +8,7 @@
 I’m Student at RhinOps DevOps Bootcamp🎓📚. <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations🚀. <br/>
 I like to discover new technologies and work for projects which have scope for self learning and developmen. <br/>
-Excellent self learning skills .🦁<br/>
+Excellent self learning skills 🦁.<br/>
 Have excellent technical and communication skills⚡.<br/>
 Great interpersonal skills🧞‍.<br/>
 Team player👤.<br/>
@@ -17,8 +17,8 @@ Team player👤.<br/>
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
 <h2>My Certificates🚀</h2>
-- MCSA - Microsoft Certified Solutions Associate<br/>
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />.<br/>
+ - MCSA - Microsoft Certified Solutions Associate<br/>
 - Certified Hands-on Cyber Security Specialist (CHCSS) at KERNELIOS College<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br/>
 - Certificate PT Infrastructure  at ITSafe College🔎.
 
