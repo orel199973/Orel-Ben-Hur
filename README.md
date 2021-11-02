@@ -18,7 +18,7 @@ Team player👤.<br/>
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
 <h2>My Certificates🚀</h2>
-**mcsa microsoft certified solutions associate **
+*mcsa microsoft certified solutions associate
 ** **
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
