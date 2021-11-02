@@ -21,4 +21,5 @@ Excellent self learning skills 🦁.<br/>
  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
  <img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
  </p>
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
