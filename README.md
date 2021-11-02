@@ -18,7 +18,7 @@ Team player👤.<br/>
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
  <h2>Skill Set 💪</h2>
-These are some of the major technologies that I use or have worked on in the past: 🚀
+These are some of the major technologies that I use or have worked on in the past:
 </p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
