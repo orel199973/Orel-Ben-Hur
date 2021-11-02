@@ -17,8 +17,8 @@ Team player👤.<br/>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-OrelBenHur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
- <h2>Skill Set 💪
-These are some of the major technologies that I use or have worked on in the past: 🚀</h2>
+ <h2>Skill Set 💪</h2>
+These are some of the major technologies that I use or have worked on in the past: 🚀
 </p>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
