@@ -14,13 +14,17 @@ Excellent self learning skills 🦁.<br/>
  Great interpersonal skills🧞‍♂️.<br/>
  Team player👤.<br/>
 
- <h2>Skills 🚀</h2>
- </p>
- <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
- <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
- <img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
+<h2>Skills 🚀</h2>
+</p>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
 <img alt="win" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+<img alt="linux" src=https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+     
+ 
+     
 </p>
  
 
