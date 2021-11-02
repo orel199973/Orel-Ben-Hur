@@ -5,7 +5,7 @@
 <h1 align="left">Hi, I'm Orel ben hur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br/>
 🏠 I’m currently living at Rehovot City, Israel <br/>
 <p><em>💻My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing</a> <br/>
-I’m Student at RhinOps DevOps Bootcamp 🎓📚<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
+I’m Student at RhinOps DevOps Bootcamp 🎓📚 <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations. 🚀 <br/>
 Have excellent technical and communication skills.⚡<br/>
 Excellent self learning skills .🦁<br/>
@@ -18,6 +18,7 @@ Team player👤.<br/>
 <h2>My Certificates🚀</h2>
 - MCSA - Microsoft Certified Solutions Associate <br/>
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" /> <br/>
+- Certified Hands-on Cyber Security Specialist (CHCSS) at KERNELIOS College<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
 
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
