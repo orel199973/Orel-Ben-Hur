@@ -18,8 +18,8 @@ Team player👤.<br/>
 
 <h2>My Certificates🚀</h2>
 
- - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
-- MCSA Microsoft Certified Solutions Associate <img alt="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+- LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
+- MCSA Microsoft Certified Solutions Associate.
  
 - Certified Hands-on Cyber Security Specialist (CHCSS) at KERNELIOS College<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br/>
 - Certificate PT Infrastructure  at ITSafe College🔎. <br/>
