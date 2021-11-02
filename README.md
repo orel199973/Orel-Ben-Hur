@@ -14,11 +14,11 @@ Team player👤.<br/>
  
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-OrelBenHur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
----
+
 <h2>My Certificates🚀</h2>
 - MCSA - Microsoft Certified Solutions Associate <br/>
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" /> <br/>
----
+
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
 </p>
