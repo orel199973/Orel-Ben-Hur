@@ -35,6 +35,7 @@ Excellent self learning skills 🦁.<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="powershell" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
 </p>
 
 
