@@ -6,5 +6,10 @@
 
 <h1 align="left">They call me Orel ben hur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br/>
 🏠 I’m currently living at Rehovot City, Israel <br/>
-👨‍💻 My role is : System Administrator at Landa Digital Printing. <br/>
+👨‍💻 <p><em>My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing</a><br/>
 ⚡Have excellent technical and communication skills⚡.<br/>
+🌱 I’m currently learning 
+
+
+
+
