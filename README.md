@@ -45,9 +45,11 @@ Excellent self learning skills 🦁.<br/>
 <p>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orel199973&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
 <p>
-
-                                                                                                        
-                                                                                                                 
-
+                                                                                                                                                                                                                       
+---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/orel199973/count.svg" />
+</p>         
 
 
