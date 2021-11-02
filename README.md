@@ -7,9 +7,10 @@
 <p><em>💻My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing</a> <br/>
 I’m Student at RhinOps DevOps Bootcamp 🎓📚 <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations. 🚀 <br/>
-Have excellent technical and communication skills.⚡<br/>
+I like to discover new technologies and work for projects which have scope for self learning and development🧠.<br/>
 Excellent self learning skills .🦁<br/>
-Great interpersonal skills.🧞‍<br/>
+Have excellent technical and communication skills⚡.<br/>
+Great interpersonal skills🧞‍.<br/>
 Team player👤.<br/>
  
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-OrelBenHur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
@@ -19,6 +20,7 @@ Team player👤.<br/>
 - MCSA - Microsoft Certified Solutions Associate<br/>
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" /><br/>
 - Certified Hands-on Cyber Security Specialist (CHCSS) at KERNELIOS College<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
+- Certificate PT Infrastructure  at ITSafe College
 
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
