@@ -9,4 +9,4 @@
 <p><em>👨‍💻 My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing</a><br/>
 ⚡Have excellent technical and communication skills⚡.<br/>
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m Student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
-💡 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations.<br/>
+💡 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations. 🚀 <br/>
