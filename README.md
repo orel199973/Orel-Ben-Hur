@@ -41,6 +41,13 @@ Excellent self learning skills 🦁.<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 </p>
 
+                                                                                                                 
+<p>
+   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orel199973&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
+<p>
+
+                                                                                                        
+                                                                                                                 
 
 
 
