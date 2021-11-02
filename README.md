@@ -22,9 +22,11 @@ Excellent self learning skills 🦁.<br/>
 <img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
 <img alt="win" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-</p>                                                                                                              
-                                                                                                                                                                               [![GitHub](icons/github.png)](https://github.com/hussainweb)
+[![GitHub](icons/github.png)](https://github.com/hussainweb)
 [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb
+</p>                                                                                                                          
+                                                                                                                                                                                                                              
+                                                                                                                                                                               
 
 </p>
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
