@@ -11,3 +11,5 @@
 I’m Student at RhinOps DevOps Bootcamp <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations. 🚀 <br/>
 Excellent self learning skills 🦁.<br/>
+ Great interpersonal skills🧞‍♂️.<br/>
+ Team player👤.<br/>
