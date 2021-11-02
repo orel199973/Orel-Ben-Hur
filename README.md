@@ -17,7 +17,8 @@ Team player👤.<br/>
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
 
 <h2>My Certificates🚀</h2>
-- LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
+
+ - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
 - MCSA Microsoft Certified Solutions Associate <img src="https://user-images.githubusercontent.com/47865329/139950093-6eecc38c-9491-416e-83f5-338c86a54a3f.png"<br/> 
  
 - Certified Hands-on Cyber Security Specialist (CHCSS) at KERNELIOS College<a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br/>
