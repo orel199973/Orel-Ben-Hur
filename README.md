@@ -1,4 +1,3 @@
-
 <h1 align="left">Hi, I'm Orel ben hur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🏠 I’m currently living at Rehovot City, Israel. <br/>
