@@ -1,7 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-
-
 <h1 align="left">Hi, I'm Orel ben hur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> <br/>
 🏠 I’m currently living at Rehovot City, Israel. <br/>
 <p><em>💻My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing.</a> <br/>
@@ -12,6 +10,8 @@ Excellent self learning skills 🦁.<br/>
 Have excellent technical and communication skills⚡.<br/>
 Great interpersonal skills🧞‍.<br/>
 Team player👤.<br/>
+ 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-OrelBenHur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)](https://www.linkedin.com/in/orel-ben-hur-86b3201a3/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/orel199973?label=follow&style=social)](https://github.com/orel199973)
