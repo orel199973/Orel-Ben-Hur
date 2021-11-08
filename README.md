@@ -1,10 +1,10 @@
 <h1 align="left">Hi, I'm Orel ben hur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> <br/>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 🏠 I’m currently living at Rehovot City, Israel. <br/>
 <p><em>💻My role is : System Administrator at <a href="https://www.landanano.com/about-us/company">Landa Digital Printing.</a> <br/>
 I’m Student at RhinOps DevOps Bootcamp🎓📚. <br/>
 I am interested in the following topics: Networking, Cloud, Sys Admin, Cyber Security, Ethical hacking ,most of all DevOps and Automations🚀. <br/>
-I like to discover new technologies and work for projects which have scope for self learning and developmen. <br/>
+I like to discover new technologies and work for projects which have scope for self learning and developmen🧠. <br/>
 Excellent self learning skills 🦁.<br/>
 Have excellent technical and communication skills⚡.<br/>
 Great interpersonal skills🧞‍.<br/>
