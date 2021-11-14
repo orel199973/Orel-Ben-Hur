@@ -55,7 +55,6 @@ These are some of the major technologies that I use or have worked on in the pas
                                                                                                                  
 <p>
    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orel199973&&show_icons=true&title_color=ffffff&icon_color=00ff00&text_color=ffffff&bg_color=151515" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=orel199973&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="Orel" />
 <p>
                                                                                                                                                                                                                        
 ---
