@@ -66,7 +66,6 @@ These are some of the major technologies that I use or have worked on in the pas
 </table>
 <p align="center">
                                                                                                                                                                                                                        
----
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/orel199973/count.svg" />
