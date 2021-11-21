@@ -33,7 +33,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="Terraform" src="https://badgen.net/badge/icon/terraform?icon=terraform&label" />
 <img alt="azure" src="https://user-images.githubusercontent.com/47865329/139946401-c430e531-d1e6-47e5-ae1d-0b8b49886f8f.png" />
-<img alt="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img alt="Kubernetes" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="22" /> <img alt="Kubernetes" src="https://badgen.net/badge/icon/Kubernetes?icon=kubernetes&label" />
+ <img alt="win" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 </p>
 <img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />
