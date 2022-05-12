@@ -17,14 +17,16 @@ Team player👤.<br/>
  
 <h2>My Certificates🚀</h2>
 
+- AWS Cloud Practitioner Certification <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
 - LPI Linux Essentials (010-160)<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="28" />. <br/>
 - MCSA Microsoft Certified Solutions Associate.
 
- 
+
 - Certified Hands-on Cyber Security Specialist (CHCSS) at <a href="https://www.kernelios.com/">KERNELIOS College.</a> <a href="https://www.thoughtworks.com"></a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. <br/>
 - Certificate PT Infrastructure  at ITSafe College🔎. <br/>
 - Certificate  Cyber Security Defender from the National Cyber Security Authority👨‍💻. <br/>
 
+ 
 <h2>Skill Set 💪</h2>
 These are some of the major technologies that I use or have worked on in the past:
 </p>
@@ -41,17 +43,22 @@ These are some of the major technologies that I use or have worked on in the pas
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="powershell" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
 <img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/postgresql.png"></code>
 <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a>
+<img src = 'https://github.com/cncf/artwork/raw/master/projects/helm/icon/color/helm-icon-color.svg' width='30'/>
+<img src = 'https://github.com/cncf/artwork/raw/master/projects/kubernetes/stacked/color/kubernetes-stacked-color.svg' width='50'/>
+<img src = 'https://github.com/cncf/artwork/raw/master/projects/prometheus/stacked/color/prometheus-stacked-color.svg' width='50'/>
 <a href="https://www.terraform.io/" title="Terraform"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/terraform.png" /></a>
 <a href="https://www.ansible.com/" title="Ansible"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/ansible.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a>
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
+
 </p>
 
                                                                                                                  
